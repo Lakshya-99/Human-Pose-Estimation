@@ -5,9 +5,7 @@ YOLOv3 with Darknet-53 backend trained on COCO dataset
 Neural network trained on LSP dataset
 
 ### Details
-explo.py: train model for pose estimation
-pck.py: evaluate pck score for model
-
-3 Python Notebooks for implementation of 3 neural network architectures
-
+explo.py: train model for pose estimation <br>
+pck.py: evaluate pck score for model <br>
+3 python notebooks for implementation of 3 neural network architectures <br><br>
 Project by Lakshya Gupta and Janhavi Gupta
