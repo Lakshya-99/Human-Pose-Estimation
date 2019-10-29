@@ -33,7 +33,7 @@ drive.mount('/content/gdrive', force_remount = True)
 
 
 mat = scipy.io.loadmat('/content/gdrive/My Drive/joints.mat')
-data = mat['joints']
+data = mat['joints'] #Add the meaning here
 print(data.shape)
 
 def get_joint(column_index):
