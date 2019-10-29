@@ -7,6 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1gWUHhUTQQmpllrF5t8eJqoYAKTxG2EWG
 """
 
+# What is the purpose of this file?
+
 def get_joint(column_index):
     y = np.zeros((2000, 2))
     for i in range(2):
