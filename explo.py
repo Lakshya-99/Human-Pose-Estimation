@@ -9,6 +9,8 @@ Original file is located at
 For more information about working with Colaboratory notebooks, see [Overview of Colaboratory](/notebooks/basic_features_overview.ipynb).
 """
 
+# write more comments in the code to understand the better
+
 import scipy.io
 import glob
 import cv2
