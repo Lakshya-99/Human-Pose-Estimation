@@ -79,6 +79,7 @@ def draw_joint(image, label):
     ax.imshow(image)
     plt.show()
 
+#What is the need to flip?
 def flip_horizontal(image, label):
     img2 = np.flip(image, 1)
     return img2, [150-label[0]-1, label[1]]
